@@ -20,6 +20,7 @@ dependencies = [
     "seaborn>=0.13.2",
     "shap>=0.52.0",
     "streamlit>=1.62.0",
+    "streamlit-aggrid>=1.2.1.post2",
     "xlrd>=2.0.2",
 ]
 
